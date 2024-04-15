@@ -1,0 +1,1 @@
+{"resources":{"Scripts/CREATE_TABLE.sql":{"default-datasource":"oracle_thin-18edce667dd-41431b8a780a61f6","default-schema":"HR"},"Scripts/PLAYER.sql":{"default-schema":"HR","default-datasource":"oracle_thin-18edce667dd-41431b8a780a61f6"}}}
